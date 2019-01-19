@@ -15,4 +15,4 @@ Requires:-
 Tested on:- Windows Standalone.  
 Can be optimized for Android and Apple devices.  
 
-![Screenshot](maze-warrior/Game Screen.png)
+![Screenshot](GameScreen.PNG)
